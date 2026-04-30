@@ -190,3 +190,6 @@ streamlit run app.py
 ---
 
 > *"Dengan model ini, ShopNest beralih dari reactive CRM ke proaktif — mengidentifikasi siapa yang akan pergi, sebelum mereka benar-benar pergi."*
+
+Link Streamlit : 
+https://prediksicustomerchurnmenggunakanmachinelearningpadae-commerces1.streamlit.app/
